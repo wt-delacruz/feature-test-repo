@@ -1,5 +1,5 @@
 @alltagged
-Feature: My Feature
+Feature: Hello FIS QA Team!
 
   A big feature file
 
