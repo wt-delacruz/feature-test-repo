@@ -9,4 +9,4 @@ Feature: My Feature
     Given a bunch of old stuff
     # more comments here
     When i try to compile
-    Then I get resultsw
+    Then I get results
